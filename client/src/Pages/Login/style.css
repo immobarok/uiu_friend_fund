@@ -1,0 +1,19 @@
+.orStyle {
+    display: flex;
+    flex-direction: row;
+    opacity: 20;
+    
+  }
+  .orStyle:before, .orStyle:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+  }
+  .orStyle:before {
+    margin-right: 10px
+  }
+  .orStyle:after {
+    margin-left: 10px
+  }
+  

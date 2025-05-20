@@ -1,0 +1,55 @@
+[
+    {
+      
+      "img": "https://i.ibb.co/XtdbyHL/student1.jpg",
+      "name": "John Doe",
+      "student_id": "ST123456",
+      "amount": 100,
+      "purpose": "Educational materials",
+       "department": "CSE",
+       "verified": true
+    },
+    {
+      
+      "img": "https://i.ibb.co/sK2MZR2/student2.jpg",
+      "name": "Jane Smith",
+      "student_id": "ST789012",
+      "amount": 150,
+      "purpose": "Tution fees",
+       "department": "BBA",
+       "verified": false
+    },
+    {
+      
+      "img": "https://i.ibb.co/VQ2fxT2/student3.jpg",
+      "name": "Bob Johnson",
+      "student_id": "ST345678",
+      "amount": 200,
+      "purpose": "Extracurricular activities",
+       "department": "EDS",
+       "verified": true
+    },
+    {
+        
+        "img": "https://i.ibb.co/rkByx0g/student4.jpg",
+        "name": "Alice Williams",
+        "student_id": "ST678901",
+        "amount": 120,
+        "purpose": "Textbooks",
+         "department": "ENGLISH",
+         "verified": true
+      },
+      {
+        
+        "img": "https://i.ibb.co/7kPsbSD/images-2.jpg",
+        "name": "Charlie Brown",
+        "student_id": "ST234567",
+        "amount": 180,
+        "purpose": "Sports equipment",
+         "department": "DATA_SCIENCE",
+         "verified": false
+      }
+  ]
+  
+
+

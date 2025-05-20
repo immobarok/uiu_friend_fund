@@ -1,0 +1,47 @@
+[
+    
+
+    {
+        
+        "img":"https://i.ibb.co/6ZMJRX4/Emergency-Relief.jpg",
+        "category":"Emergency Relief",
+        "title":"Helping Hands for Hurricane",
+        "short_description":"Support victims of recent hurricanes with essential supplies and shelter."
+},
+    {
+        
+        "img":"https://i.ibb.co/T8WSGQZ/Earthquake-Recovery.webp",
+        "category":"Earthquake Recovery",
+        "title":"Rebuilding After Earthquakes",
+        "short_description":"Donate to provide assistance to communities affected by devastating earthquakes."
+    },
+    {
+        
+        "img":"https://i.ibb.co/T8WSGQZ/Earthquake-Recovery.webp",
+        "category":"Earthquake Recovery",
+        "title":"Rebuilding After Earthquakes",
+        "short_description":"Donate to provide assistance to communities affected by devastating earthquakes."
+    },
+    {
+        
+        "img":"https://i.ibb.co/2jgt0jp/flood.jpg",
+        "category":"Flood Relief",
+        "title":"Rising Above the Floods",
+        "short_description":"Join us in assisting those affected by floods by contributing to relief efforts."
+    },
+    {
+        
+        "img":"https://i.ibb.co/Svpzxm6/Wildfire-Support.webp",
+        "category":"Wildfire Support",
+        "title":"Healing from Wildfire ",
+        "short_description":"Contribute to rehabilitation efforts for areas impacted by destructive wildfires."
+    },
+    {
+        
+        "img":"https://i.ibb.co/WzcvvFY/Tornado-Assistance.jpg",
+        "category":"Tornado Assistance",
+        "title":"Recovery After the Twisters",
+        "short_description":"Help communities recover from the aftermath of destructive tornadoes."
+    }
+    
+]
